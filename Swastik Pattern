@@ -3,6 +3,7 @@
 int main()
 {
     int n,a,i,j;
+    printf("SWASTIK PATTERN");
     scanf("%d",&n);
     a=n/2;
     if(n%2==0)
