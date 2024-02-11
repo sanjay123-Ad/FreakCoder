@@ -41,7 +41,7 @@ int main() {
     // Write C code h
     int a,b;
     scanf("%d%d",&a,&b);
-    int i,j,k,l,s[5000][5000];
+    int i,j,k,l,s[1000][1000];
     for(i=1;i<=a;i++)
     {
         for(j=1;j<=b;j++)
@@ -50,7 +50,7 @@ int main() {
             scanf("%d",&s[i][j]);
         }
     }
-    int f[5000],p=1;
+    int f[1000],p=1;
    for(i=1;i<=3;i++)
    {
        for(j=1;j<=3;j++)
