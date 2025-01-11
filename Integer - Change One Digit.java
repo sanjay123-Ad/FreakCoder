@@ -22,6 +22,7 @@ Input:
 Output: 
 5 105 205 305 405 505 605 705 805 905
 */
+// Using Java Code
 import java.util.*;
 public class Main
 {
