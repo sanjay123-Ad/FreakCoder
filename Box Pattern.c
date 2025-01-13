@@ -1,4 +1,5 @@
 // Online C compiler to run C program online
+// In this code there is no statement
 #include <stdio.h>
 
 int main() {
