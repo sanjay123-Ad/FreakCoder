@@ -1,4 +1,4 @@
-/* Asterik Pattern */
+/* Asterik Pattern in c program */
 #include <stdio.h>
 
 int main()
